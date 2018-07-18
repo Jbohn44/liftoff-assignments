@@ -7,11 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The project that I am going to be working on will be a web application that allows users to create, store, and manipulate
+bread formulas.  This will be intended for professional bakers or home bakers that want to bake like professional bakers.
+
 ### Features
-Include Features here
+-create recipes
+-edit recipes
+-convert units of measurement
+
 ### Technologies
-Include Technologies here
+-C#
+-Asp.Net
+-Entity Framework
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+At some point in the project I  want to integrate an API.  I will definitely have to learn about APIs and how to integrate them
+into my project.
