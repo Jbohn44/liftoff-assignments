@@ -16,9 +16,9 @@ bread formulas.  This will be intended for professional bakers or home bakers th
 -convert units of measurement
 
 ### Technologies
--C#
--Asp.Net
--Entity Framework
+C#
+Asp.Net
+Entity Framework
 
 
 ### What I'll Have to Learn
