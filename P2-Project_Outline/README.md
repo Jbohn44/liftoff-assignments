@@ -11,14 +11,14 @@ The project that I am going to be working on will be a web application that allo
 bread formulas.  This will be intended for professional bakers or home bakers that want to bake like professional bakers.
 
 ### Features
-* create recipes
-* edit recipes
-* convert units of measurement
+* Create recipes: Users will be able to create and save recipes to their profile.
+* Edit recipes: Users will be able to edit existing recipes as they see necessary.
+* Convert recipe measurements:  Users will be able to convert units of measurement for recipes.
 
 ### Technologies
-*C#
-*Asp.Net
-*Entity Framework
+* C#
+* Asp.Net
+* Entity Framework
 
 
 ### What I'll Have to Learn
