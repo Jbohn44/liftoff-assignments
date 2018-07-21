@@ -8,7 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 The project that I am going to be working on will be a web application that allows users to create, store, and manipulate
-bread formulas.  This will be intended for professional bakers or home bakers that want to bake like professional bakers.
+bread recipes.  This will be intended for professional bakers or home bakers that want to bake like professional bakers.
 
 ### Features
 * Create recipes: Users will be able to create and save recipes to their profile.
