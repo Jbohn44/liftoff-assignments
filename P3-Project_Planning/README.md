@@ -7,9 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* https://github.com/Jbohn44/BreadBuilder/blob/master/01-Home.png
+* https://github.com/Jbohn44/BreadBuilder/blob/master/02-UserProfile.png
+* https://github.com/Jbohn44/BreadBuilder/blob/master/03-IndividualRecipePage.png
+* https://github.com/Jbohn44/BreadBuilder/blob/master/04-IngredientsRecipeCreationForm.png
+* https://github.com/Jbohn44/BreadBuilder/blob/master/05-NameAndInstructRecipeCreationForm.png
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2185087
